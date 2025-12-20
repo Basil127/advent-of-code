@@ -23,6 +23,7 @@ go.work.sum
 
 # Editor/IDE
 .vscode/
+*.code-workspace
 
 # Advent of Code Inputs
 input.txt
